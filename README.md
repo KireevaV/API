@@ -9,3 +9,6 @@ https://www.postman.com/supply-explorer-36567248/workspace/my-workspace/folder/4
 
 https://drive.google.com/drive/my-drive
 
+# Тестирование SOAP сервиса
+[ссылка на документ]
+https://www.postman.com/supply-explorer-36567248/workspace/my-workspace/collection/40399380-a5afe47c-6b54-4b74-88a9-cb6d059d4073?action=share&creator=40399380&active-environment=40399380-cd14339a-ed62-48a9-b3d7-0b5e4503a912
